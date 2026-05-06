@@ -1,0 +1,7 @@
+Name,Purpose,Quantity,Total Cost (USD),Link,Distributor
+"PCB","to connect everything together",1,11.60,"https://jlcpcb.com","JLCPCB"
+"Gateron Clear switches","light actuation key switched perfect for stenography.",3,12.00,"https://keebd.com/en-us/products/gateron-clear","KEEBD"
+"M3 screws","to connect the PCB to the case",2,1.20,"https://www.digikey.com/en/products/detail/keystone-electronics/29318/1532211?s=N4IgjCBcpgTB0QGMoDMCGAbAzgUwDQgD2UA2iAMwDsADBQJw0gC6hADgC5QgDKHATgEsAdgHMQAX0JUALAA4ooFJAw4CxMpTmwq9Fuy6ReAkeIlSQsTQFkKAAmxJ%2BuAO7YWEoA","Digikey"
+"40 pin header","to connect the pi to the PCB. will be split in half.",1,0.82,"https://www.digikey.com/en/products/detail/sullins-connector-solutions/PRPC040SACN-RC/2776066?gclsrc=aw.ds&gad_source=1&gad_campaignid=20783325532&gbraid=0AAAAADrbLlihXiy5bPz1ZoycVpZMiUUQN&gclid=CjwKCAjw5NvPBhAoEiwA_2egfjKfvzeg8KBaE4AIgnWX87Q3RBU0f_BkVgd5n0MXxofAhzG4eQy7ZRoCeBwQAvD_BwE","Digikey"
+"Raspberry Pi Pico RP2040","the main microcontroller",1,4.59,"https://www.digikey.com/en/products/detail/raspberry-pi/SC0915/13624793","Digikey"
+"1N4148 diodes","diodes for the matrix",28,1.54,"https://www.digikey.com/en/products/detail/onsemi/1N4148/458603","Digikey"
